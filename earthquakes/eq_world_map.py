@@ -42,7 +42,3 @@ data = [{
 layout = Layout(title='Earthquakes happened in 30 days') # Layout constructor needs attributes title=''
 fig = {'data': data, 'layout': layout }
 offline.plot(fig, filename='eq_world.map.html')
-
-# 3.5h for a earphone
-# 25% for each charge for the earphones
-# 3.5*4=15h
