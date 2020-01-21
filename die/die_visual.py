@@ -21,7 +21,9 @@ for i in range(2, max_num+1):
 
 print(frequencies)
 
-# visualise the results
+# ------------------ visualise the results ------------------ 
+
+# plotly doesn't recognise range() as a list, hence the list() method
 x_values = list(range(2, max_num+1))
 # create a list of bars, stored in data
 data = [Bar(x=x_values, y=frequencies)]
