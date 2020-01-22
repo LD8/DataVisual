@@ -1,0 +1,661 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1579656697000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
+        "title": "USGS Significant Earthquakes, Past Month",
+        "status": 200,
+        "api": "1.8.1",
+        "count": 16
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.8,
+                "place": "4km ENE of Fincastle, Tennessee",
+                "time": 1579547531260,
+                "updated": 1579656549916,
+                "tz": -300,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60300191",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60300191.geojson",
+                "felt": 10657,
+                "cdi": 4.9,
+                "mmi": 4.509,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 712,
+                "net": "se",
+                "code": "60300191",
+                "ids": ",se60300191,us60007bif,",
+                "sources": ",se,us,",
+                "types": ",dyfi,general-text,geoserve,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 36,
+                "dmin": 0.1218,
+                "rms": 0.18,
+                "gap": 32,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 3.8 - 4km ENE of Fincastle, Tennessee"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.0268333,
+                    36.4305,
+                    34.84
+                ]
+            },
+            "id": "se60300191"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "3km WSW of South Hutchinson, Kansas",
+                "time": 1579460921185,
+                "updated": 1579654892788,
+                "tz": -360,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60007att",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us60007att.geojson",
+                "felt": 3265,
+                "cdi": 5.8,
+                "mmi": 6.323,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 892,
+                "net": "us",
+                "code": "60007att",
+                "ids": ",us60007att,",
+                "sources": ",us,",
+                "types": ",dyfi,geoserve,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.028,
+                "rms": 0.48,
+                "gap": 89,
+                "magType": "mwr",
+                "type": "earthquake",
+                "title": "M 4.5 - 3km WSW of South Hutchinson, Kansas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.9712,
+                    38.0144,
+                    5
+                ]
+            },
+            "id": "us60007att"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6,
+                "place": "86km ENE of Arzak, China",
+                "time": 1579440476751,
+                "updated": 1579550772153,
+                "tz": 480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60007anp",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us60007anp.geojson",
+                "felt": 9,
+                "cdi": 4.1,
+                "mmi": 7.536,
+                "alert": "orange",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1004,
+                "net": "us",
+                "code": "60007anp",
+                "ids": ",us60007anp,",
+                "sources": ",us,",
+                "types": ",dyfi,general-text,geoserve,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.969,
+                "rms": 0.51,
+                "gap": 28,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.0 - 86km ENE of Arzak, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.1064,
+                    39.8309,
+                    6.28
+                ]
+            },
+            "id": "us60007anp"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.2,
+                "place": "8km SW of Guanica, Puerto Rico",
+                "time": 1579102583850,
+                "updated": 1579585980274,
+                "tz": -240,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2020015008",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2020015008.geojson",
+                "felt": 457,
+                "cdi": 5.6,
+                "mmi": 5.454,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 672,
+                "net": "pr",
+                "code": "2020015008",
+                "ids": ",pt20015003,us700070a1,pr2020015008,",
+                "sources": ",pt,us,pr,",
+                "types": ",dyfi,geoserve,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 13,
+                "dmin": 0.0604,
+                "rms": 0.18,
+                "gap": 245,
+                "magType": "mwp",
+                "type": "earthquake",
+                "title": "M 5.2 - 8km SW of Guanica, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.0171,
+                    17.9155,
+                    5
+                ]
+            },
+            "id": "pr2020015008"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.9,
+                "place": "13km SE of Guanica, Puerto Rico",
+                "time": 1578747285910,
+                "updated": 1579282587184,
+                "tz": -240,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2020011010",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2020011010.geojson",
+                "felt": 1330,
+                "cdi": 6.4,
+                "mmi": 6.598,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1290,
+                "net": "pr",
+                "code": "2020011010",
+                "ids": ",pt20011058,us70006ydb,pr2020011010,",
+                "sources": ",pt,us,pr,",
+                "types": ",dyfi,general-text,geoserve,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 12,
+                "dmin": 0.1945,
+                "rms": 0.31,
+                "gap": 199,
+                "magType": "mwp",
+                "type": "earthquake",
+                "title": "M 5.9 - 13km SE of Guanica, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.8508,
+                    17.949,
+                    5
+                ]
+            },
+            "id": "pr2020011010"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.2,
+                "place": "4km SSW of Indios, Puerto Rico",
+                "time": 1578695185000,
+                "updated": 1578986162513,
+                "tz": -240,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2020010060",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2020010060.geojson",
+                "felt": 724,
+                "cdi": 5.8,
+                "mmi": 5.88,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 836,
+                "net": "pr",
+                "code": "2020010060",
+                "ids": ",pt20010006,us70006xy5,pr2020010060,",
+                "sources": ",pt,us,pr,",
+                "types": ",dyfi,geoserve,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 15,
+                "dmin": 0.0403,
+                "rms": 0.15,
+                "gap": 216,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 5.2 - 4km SSW of Indios, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.883,
+                    17.935,
+                    9
+                ]
+            },
+            "id": "pr2020010060"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "Chukotskiy Avtonomnyy Okrug, Russia",
+                "time": 1578559088316,
+                "updated": 1578646162527,
+                "tz": 720,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006wuf",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70006wuf.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": 7.356,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "us",
+                "code": "70006wuf",
+                "ids": ",us70006wuf,",
+                "sources": ",us,",
+                "types": ",geoserve,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 6.064,
+                "rms": 0.8,
+                "gap": 21,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - Chukotskiy Avtonomnyy Okrug, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.0597,
+                    62.3408,
+                    10
+                ]
+            },
+            "id": "us70006wuf"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.6,
+                "place": "1km SW of Tallaboa, Puerto Rico",
+                "time": 1578395923540,
+                "updated": 1579113528629,
+                "tz": -240,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2020007010",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2020007010.geojson",
+                "felt": 192,
+                "cdi": 7.2,
+                "mmi": 6.837,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 788,
+                "net": "pr",
+                "code": "2020007010",
+                "ids": ",us70006vpb,pr2020007010,",
+                "sources": ",us,pr,",
+                "types": ",dyfi,geoserve,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 10,
+                "dmin": 0.171,
+                "rms": 0.08,
+                "gap": 177,
+                "magType": "mwp",
+                "type": "earthquake",
+                "title": "M 5.6 - 1km SW of Tallaboa, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.776,
+                    18.0223,
+                    9
+                ]
+            },
+            "id": "pr2020007010"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "8km S of Indios, Puerto Rico",
+                "time": 1578385466567,
+                "updated": 1579651317328,
+                "tz": -240,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006vll",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70006vll.geojson",
+                "felt": 2477,
+                "cdi": 7.7,
+                "mmi": 7.603,
+                "alert": "orange",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 1770,
+                "net": "us",
+                "code": "70006vll",
+                "ids": ",us70006vll,pt20007001,at00q3qa0q,pt20007009,pr2020007007,",
+                "sources": ",us,pt,at,pt,pr,",
+                "types": ",associate,dyfi,general-link,general-text,geoserve,ground-failure,impact-link,losspager,moment-tensor,oaf,origin,phase-data,poster,shakemap,trump-origin,",
+                "nst": null,
+                "dmin": 0.233,
+                "rms": 0.87,
+                "gap": 70,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.4 - 8km S of Indios, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.8125,
+                    17.9161,
+                    10
+                ]
+            },
+            "id": "us70006vll"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.2,
+                "place": "16km SSW of Sinabang, Indonesia",
+                "time": 1578377120269,
+                "updated": 1578641267084,
+                "tz": 420,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006vkq",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70006vkq.geojson",
+                "felt": 13,
+                "cdi": 6.5,
+                "mmi": 6.125,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 600,
+                "net": "us",
+                "code": "70006vkq",
+                "ids": ",us70006vkq,",
+                "sources": ",us,",
+                "types": ",dyfi,geoserve,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.598,
+                "rms": 1.07,
+                "gap": 55,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.2 - 16km SSW of Sinabang, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.347,
+                    2.3334,
+                    20.34
+                ]
+            },
+            "id": "us70006vkq"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.8,
+                "place": "13km SSE of Indios, Puerto Rico",
+                "time": 1578306738770,
+                "updated": 1579127868058,
+                "tz": -240,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2020006006",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2020006006.geojson",
+                "felt": 934,
+                "cdi": 6.3,
+                "mmi": 6.356,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1238,
+                "net": "pr",
+                "code": "2020006006",
+                "ids": ",pt20006001,us70006v7k,pr2020006006,",
+                "sources": ",pt,us,pr,",
+                "types": ",dyfi,general-text,geoserve,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 19,
+                "dmin": 0.1231,
+                "rms": 0.29,
+                "gap": 227,
+                "magType": "mwp",
+                "type": "earthquake",
+                "title": "M 5.8 - 13km SSE of Indios, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.8193,
+                    17.8675,
+                    6
+                ]
+            },
+            "id": "pr2020006006"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.03,
+                "place": "25km S of Port Hueneme, CA",
+                "time": 1577959979540,
+                "updated": 1578425849911,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39020663",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39020663.geojson",
+                "felt": 1967,
+                "cdi": 3.8,
+                "mmi": 3.52,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 630,
+                "net": "ci",
+                "code": "39020663",
+                "ids": ",ci39020663,at00q3h5pn,us70006th5,",
+                "sources": ",ci,at,us,",
+                "types": ",dyfi,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 80,
+                "dmin": 0.256,
+                "rms": 0.29,
+                "gap": 148,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 4.0 - 25km S of Port Hueneme, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.224,
+                    33.9205,
+                    0.07
+                ]
+            },
+            "id": "ci39020663"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.86,
+                "place": "10km ENE of Morgan Hill, CA",
+                "time": 1577949391930,
+                "updated": 1579597073040,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73322626",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73322626.geojson",
+                "felt": 3869,
+                "cdi": 5.3,
+                "mmi": 4.58,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 759,
+                "net": "nc",
+                "code": "73322626",
+                "ids": ",nc73322626,at00q3gxjj,us70006tfl,",
+                "sources": ",nc,at,us,",
+                "types": ",dyfi,focal-mechanism,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 207,
+                "dmin": 0.05156,
+                "rms": 0.12,
+                "gap": 41,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 3.9 - 10km ENE of Morgan Hill, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.5638333,
+                    37.176,
+                    5.29
+                ]
+            },
+            "id": "nc73322626"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5,
+                "place": "10km S of Indios, Puerto Rico",
+                "time": 1577581560130,
+                "updated": 1579647934711,
+                "tz": -240,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2019363002",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2019363002.geojson",
+                "felt": 468,
+                "cdi": 5.7,
+                "mmi": 5.415,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 651,
+                "net": "pr",
+                "code": "2019363002",
+                "ids": ",pt19363051,us70006s21,pr2019363002,",
+                "sources": ",pt,us,pr,",
+                "types": ",dyfi,geoserve,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 18,
+                "dmin": 0.1992,
+                "rms": 0.24,
+                "gap": 222,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 5.0 - 10km S of Indios, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.864,
+                    17.8846,
+                    6
+                ]
+            },
+            "id": "pr2019363002"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "182km W of Port Hardy, Canada",
+                "time": 1577244962511,
+                "updated": 1577955916736,
+                "tz": -540,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006qt7",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70006qt7.geojson",
+                "felt": 48,
+                "cdi": 4.3,
+                "mmi": 4.23,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 631,
+                "net": "us",
+                "code": "70006qt7",
+                "ids": ",at00q31tzv,us70006qt7,",
+                "sources": ",at,us,",
+                "types": ",dyfi,geoserve,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.869,
+                "rms": 1.04,
+                "gap": 99,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - 182km W of Port Hardy, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -129.9987,
+                    50.5828,
+                    10
+                ]
+            },
+            "id": "us70006qt7"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6,
+                "place": "3km SW of Lejanias, Colombia",
+                "time": 1577214232404,
+                "updated": 1578399336726,
+                "tz": -300,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006qnn",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70006qnn.geojson",
+                "felt": 373,
+                "cdi": 6.7,
+                "mmi": 6.492,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 804,
+                "net": "us",
+                "code": "70006qnn",
+                "ids": ",us70006qnn,",
+                "sources": ",us,",
+                "types": ",dyfi,geoserve,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.361,
+                "rms": 0.75,
+                "gap": 47,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.0 - 3km SW of Lejanias, Colombia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0461,
+                    3.5028,
+                    11
+                ]
+            },
+            "id": "us70006qnn"
+        }
+    ],
+    "bbox": [
+        -129.9987,
+        2.3334,
+        0.07,
+        171.0597,
+        62.3408,
+        34.84
+    ]
+}
